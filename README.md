@@ -1,5 +1,3 @@
-# code_repo
-
 ## **Python Directory contains basic to advance python code to enhance the coding skills**
 
 Topics covered are:
